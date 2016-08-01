@@ -1,2 +1,2 @@
 # resources
-Resources
+This project containes the resources that other projects need.
